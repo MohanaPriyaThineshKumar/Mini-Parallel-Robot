@@ -13,7 +13,7 @@ DOF ( Degree of freedom) of spherical joints = 3
 
 Constraints caused by each closed loop = 6  
 Number of closed loops = 3  
-Constraints causedbyt each motor = 1  
+Constraints caused by each motor = 1  
 Number of motors = 3  
 
 Using Gruber's Formulae:-
